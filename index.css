@@ -140,6 +140,10 @@ h1, h2 {
     margin-right: 10px;
 }
 
+.skill:hover{
+  transform: scale(1.1);
+  color: #F0C46E;
+}
 
 
 #about {
